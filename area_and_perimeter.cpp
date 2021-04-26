@@ -2,7 +2,7 @@
 //
 // Created by: Brian Musembi
 // Created on: 23 April 2021
-// This program calculates the area of a rectangle 73m by 82m
+// This program calculates the area and perimeter of a rectangle
 
 
 #include <iostream>
